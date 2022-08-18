@@ -10,6 +10,7 @@ The origional idea for this project was to create a website which could make pla
 Below are some wireframes for what I intend the website to look like:
 
 ![](images/IMG_6811.jpg)
+![](images/IMG_6812.jpg)
 
 
 
