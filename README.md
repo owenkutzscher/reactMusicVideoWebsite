@@ -7,6 +7,10 @@
 
 The origional idea for this project was to create a website which could make playlists of music videos from youtube. There would be a feature that would allow users to add songs to playlists and convert their playlists from streaming platforms such as spotify into music video playlists. The program would also filter through the videos and only add real music videos. A demo of this feature is in my project here: https://github.com/owenkutzscher/ReactMapping. This is still a work in progress. It currently displays clickable thumbnails from a youtube playlist. Clicking on a thumbnail sends you to the video.
 
+Below are some wireframes for what I intend the website to look like:
+
+![](images/IMG_6811.jpg)
+
 
 
 ## How to run
