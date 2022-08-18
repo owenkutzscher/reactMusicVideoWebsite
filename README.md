@@ -1,3 +1,32 @@
+# ReactMusicVideoWebsite
+
+
+
+
+## Large scale project idea
+
+The origional idea for this project was to create a website which could make playlists of music videos from youtube. There would be a feature that would allow users to add songs to playlists and convert their playlists from streaming platforms such as spotify into music video playlists. The program would also filter through the videos and only add real music videos. A demo of this feature is in my project here: (INSERT PROJECT). This is still a work in progress. It currently displays clickable thumbnails from a youtube playlist. Clicking on a thumbnail sends you to the video.
+
+
+
+## How to run
+
+Navigate to the ReactMusicVideoWebsite folder
+
+in the terminal run: npm run dev
+
+visit http://localhost:3000
+
+If running correctly you should see a collection of music videos from Pitbull
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
