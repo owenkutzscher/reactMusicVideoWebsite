@@ -9,7 +9,7 @@ The origional idea for this project was to create a website which could make pla
 
 Below is the PRD idea:
 
-## PRD: Music Video Playlist Maker (for DT)
+## PRD: Music Video Playlist Maker
 
 
 
