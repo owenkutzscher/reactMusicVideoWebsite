@@ -62,8 +62,6 @@ Navigate to the ReactMusicVideoWebsite folder
 
 in the terminal run:
 npm run dev
-or
-yarn dev
 
 visit http://localhost:3000
 
